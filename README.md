@@ -1,2 +1,20 @@
-# AI-for-NeuroGraph-Wiz
-用户只需要提供自己深度学习模型的python代码或者.ipynb文件或者一个项目中的多个.py文件，就可以绘制出sci论文可以直接用的模型框架图，帮助用户快速理解模型的结构，并提供AI助手辅助用户理解该模型或者提出要求能够对模型架构绘制方式进行修改，比如原来是英文绘制，修改为中文绘制，而且用户可以自定义模块的文字和颜色以及模块的位置
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/152_rsf2dynulb8SzDMilE0EC3PGi3GWh
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

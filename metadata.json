@@ -1,0 +1,5 @@
+{
+  "name": "NeuroGraph WizAI",
+  "description": "Generate SCI paper-ready deep learning model architecture diagrams from Python code or Jupyter Notebooks (.ipynb). Fully customizable and exportable.",
+  "requestFramePermissions": []
+}
